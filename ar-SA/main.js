@@ -99,7 +99,7 @@ AppModule.ɵfac = function AppModule_Factory(t) { return new (t || AppModule)();
 AppModule.ɵmod = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_13__["ɵɵdefineNgModule"]({ type: AppModule, bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_0__.AppComponent] });
 AppModule.ɵinj = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_13__["ɵɵdefineInjector"]({ providers: [
         _shared_services_auth_auth_service__WEBPACK_IMPORTED_MODULE_10__.AuthService,
-        { provide: _angular_common__WEBPACK_IMPORTED_MODULE_14__.APP_BASE_HREF, useValue: "" },
+        { provide: _angular_common__WEBPACK_IMPORTED_MODULE_14__.APP_BASE_HREF, useValue: "/" },
         { provide: _angular_core__WEBPACK_IMPORTED_MODULE_13__.LOCALE_ID, useValue: "ar-SA" },
         { provide: _angular_common_http__WEBPACK_IMPORTED_MODULE_15__.HTTP_INTERCEPTORS, useClass: _shared_interceptors_auth_interceptor__WEBPACK_IMPORTED_MODULE_12__.AuthInterceptor, multi: true },
         { provide: _angular_common_http__WEBPACK_IMPORTED_MODULE_15__.HTTP_INTERCEPTORS, useClass: src_app_shared_interceptors_base_interceptor__WEBPACK_IMPORTED_MODULE_11__.BaseInterceptor, multi: true },
