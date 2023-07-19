@@ -25,15 +25,8 @@
     // Otherwise, leave pathSegmentsToKeep as 0.
     var pathSegmentsToKeep = 2;
 
-    var l = window.location;
-    l.replace(
-      l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
-      l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
-      l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
-      (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
-      l.hash
-    );
-
+    const location = window.location;
+    location.replace(location.origin + '/ar-SY/' + location.pathname + location.search)
   </script>
 </head>
 
