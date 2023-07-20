@@ -7,13 +7,14 @@
   <script type="text/javascript">
     const locales = ['/ar-SY', '/en-US'];
     var l = window.location;
-    for (let i = 0; i < locales.length; ++i) {
-      if (l.pathname.startsWith(locales[i])) {
-        l.replace(location.origin + location.pathname + location.search);
-        return;
-      }
+    const hasLocale = locales.some((locale) => {
+      return l.pathname.startsWith(locale);
+    });
+    if (hasLocale) {
+      l.replace(location.origin + location.pathname + location.search);
+    } else {
+      l.replace(location.origin + locales[0] + location.pathname + location.search)
     }
-    l.replace(location.origin + '/ar-SY' + location.pathname + location.search)
   </script>
 </head>
 
