@@ -16,8 +16,8 @@
     } else {
       index = 0;
     }
-    window.sessionStorage.path = path + location.search; // saves on sessionStorage
-    //l.replace(location.origin + location.pathname + location.search);
+    // saves on sessionStorage
+    window.sessionStorage.path = path + location.search;
     // redirect to locale base
     l.replace(location.origin + locales[index])
   </script>
