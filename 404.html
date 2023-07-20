@@ -7,13 +7,18 @@
   <script type="text/javascript">
     const locales = ['/ar-SY', '/en-US'];
     var l = window.location;
-    const hasLocale = locales.some((locale) => {
+    const index = locales.findIndex((locale) => {
       return l.pathname.startsWith(locale);
     });
-    if (hasLocale) {
+    let path = location.pathname;
+    if (index > -1) {
+      path = path.substring(locales[index].length)
+    }
+    window.sessionStorage.path = path + location.search; // saves on sessionStorage
+    if (index > -1) {
       l.replace(location.origin + location.pathname + location.search);
     } else {
-      l.replace(location.origin + locales[0] + location.pathname + location.search)
+      l.replace(location.origin + locales[0])
     }
   </script>
 </head>
