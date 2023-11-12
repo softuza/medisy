@@ -1,2 +1,0 @@
-import{a as r,b as t}from"./chunk-PWEA5SW5.js";var a=class o{static paged(e,p){return{pageSize:p??50,pageIndex:e??1}}static unpaged(){return{pageSize:-1,pageIndex:1}}static pagedSorted(e){return t(r({},o.paged()),{sortBy:e})}static search(e){return t(r({},o.paged()),{query:e})}static searchSorted(e,p){return t(r({},o.paged()),{sortBy:p,query:e})}static unpagedSorted(e){return t(r({},o.unpaged()),{sortBy:e})}static count(){return{pageIndex:1,pageSize:0}}};export{a};
-/**i18n:1d16e7d3b6b09b5ca5f11aee33f3c6ee9a8e446806802ef706aaf87e85c9b2b7*/
