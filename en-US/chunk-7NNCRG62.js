@@ -1,0 +1,1 @@
+var e={tests:"Tests",testClass:"Test Class",testGroup:"Test Group",testResult:"Test Result",referenceGroup:"Reference Group",referenceValue:"Reference Value",analyses:"Analyses",analysis:"Analysis",laboratories:"Laboratories"};export{e as a};/**i18n:419148c294ae56579e504a43f00a8e71eb3633c9912a0864afd0e0662e47e985*/
