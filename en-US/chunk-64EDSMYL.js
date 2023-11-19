@@ -1,0 +1,1 @@
+var e={close:"Close",save:"Save",reset:"Reset",delete:"Delete",confirm:"Confirm",filter:"Filter",edit:"Edit",print:"Print"};var l={delete:"delete",edit:"edit",print:"print",menu_vert:"more_vert"};export{e as a,l as b};/**i18n:419148c294ae56579e504a43f00a8e71eb3633c9912a0864afd0e0662e47e985*/
