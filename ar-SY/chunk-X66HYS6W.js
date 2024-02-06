@@ -1,0 +1,2 @@
+import{qa as a}from"./chunk-CQJO6ZYU.js";var o=(()=>{let r=class r{transform(t,n=!1){if(!t||typeof t=="string")return"";if(!t.names||t.names.length===0)return`${t.id}`;let s=t.names[0].firstName,i=t.names[0].lastName,m=i?`${s} ${i}`:`${s}`;return n&&t.birthDate?`${+new Date-+t.birthDate}`:m}};r.\u0275fac=function(n){return new(n||r)},r.\u0275pipe=a({name:"personName",type:r,pure:!0,standalone:!0});let e=r;return e})();export{o as a};
+/**i18n:70191478f6ac7be8bdb3241746fcd9e1f236a6362603c105af1f0a7330a6840e*/
