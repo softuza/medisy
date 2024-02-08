@@ -1,1 +1,0 @@
-var e=function(r){return r.Private="Private",r.Public="Public",r.Work="Work",r;}(e||{});function t(r){switch(r){case e.Private:return"\u062E\u0627\u0635";case e.Public:return"\u0639\u0627\u0645";case e.Work:return"\u0627\u0644\u0639\u0645\u0644";default:return"";}}export{e as a,t as b};/**i18n:70191478f6ac7be8bdb3241746fcd9e1f236a6362603c105af1f0a7330a6840e*/
