@@ -5,12 +5,9 @@
       "serve": "/index.html"
     }
   ],
-  "platformErrorOverrides": [
-  ],
-  "defaultHeaders": {
-
-  },
+  "platformErrorOverrides": [],
+  "defaultHeaders": {},
   "mimeTypes": {
-      "custom": "text/html"
+    "custom": "text/html"
   }
 }

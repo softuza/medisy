@@ -1,29 +1,26 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirect</title>
+    <script type="text/javascript">
+      const locales = ['/ar-SY', '/en-US'];
+      var l = window.location;
+      let index = locales.findIndex((locale) => {
+        return l.pathname.startsWith(locale);
+      });
+      let path = location.pathname;
+      if (index > -1) {
+        path = path.substring(locales[index].length);
+      } else {
+        index = 0;
+      }
+      // saves on sessionStorage
+      window.sessionStorage.path = path + location.search;
+      // redirect to locale base
+      l.replace(location.origin + locales[index]);
+    </script>
+  </head>
 
-<head>
-  <meta charset="utf-8">
-  <title>Redirect</title>
-  <script type="text/javascript">
-    const locales = ['/ar-SY', '/en-US'];
-    var l = window.location;
-    let index = locales.findIndex((locale) => {
-      return l.pathname.startsWith(locale);
-    });
-    let path = location.pathname;
-    if (index > -1) {
-      path = path.substring(locales[index].length);
-    } else {
-      index = 0;
-    }
-    // saves on sessionStorage
-    window.sessionStorage.path = path + location.search;
-    // redirect to locale base
-    l.replace(location.origin + locales[index])
-  </script>
-</head>
-
-<body>
-</body>
-
+  <body></body>
 </html>
