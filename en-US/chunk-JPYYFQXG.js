@@ -1,1 +1,0 @@
-var o=function(e){return e.Home="Home",e.Mobile="Mobile",e.Work="Work",e;}(o||{});function r(e){switch(e){case o.Home:return"Home";case o.Mobile:return"Mobile";case o.Work:return"Work";default:return"";}}export{o as a,r as b};/**i18n:d1a7a79e40094f34760a06b0e93530073ce604a889b1368eeeee77f855868761*/
