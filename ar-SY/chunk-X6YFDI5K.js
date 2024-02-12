@@ -1,1 +1,0 @@
-var a=function(e){return e.Male="Male",e.Female="Female",e;}(a||{});function l(e){switch(e){case a.Female:return"\u0627\u0646\u062B\u0649";case a.Male:return"\u0630\u0643\u0631";default:return"";}}export{a,l as b};/**i18n:8e9b4850590b6fa147a647198c020a875dcb2f3f874168f5a397dc75d2bcd225*/
