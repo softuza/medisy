@@ -1,2 +1,0 @@
-var r=function(e){return e.Validated="Validated",e.Returned="Returned",e.Forwarded="Forwarded",e.Destroyed="Destroyed",e.Collected="Collected",e.Accepted="Accepted",e.Created="Created",e}(r||{});function d(e){switch(e){case r.Accepted:return"fact_check";case r.Collected:return"playlist_add_circle";case r.Destroyed:return"delete_forever";case r.Forwarded:return"redo";case r.Validated:return"fact_check";case r.Created:return"description";default:return""}}export{d as a};
-/**i18n:b6356af15a472d72c43a2a12f81780e7aeabf4debd55cf9990b19b5b7f0f0471*/
