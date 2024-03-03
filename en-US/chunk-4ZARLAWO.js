@@ -1,2 +1,0 @@
-var o=function(r){return r.NationalCard="NationalCard",r.BankCard="BankCard",r.DriverLicense="DriverLicense",r.Passport="Passport",r.TravelDocument="TravelDocument",r.Other="Other",r}(o||{});var a=function(r){return r.Private="Private",r.Public="Public",r.Work="Work",r}(a||{});var t=function(r){return r.Home="Home",r.Mobile="Mobile",r.Work="Work",r}(t||{});var e=function(r){return r.Male="Male",r.Female="Female",r}(e||{});export{o as a,a as b,t as c,e as d};
-/**i18n:142b184bcc765aafabe38132ddf8b8010494004de549a9ae50380341c89792e9*/
