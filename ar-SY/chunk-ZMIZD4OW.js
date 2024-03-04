@@ -1,0 +1,2 @@
+import{f}from"./chunk-HBWDAFFH.js";function s(i){for(let r in i)if((i[r]===void 0||i[r]===null)&&delete i[r],i[r]instanceof Date)i[r]=i[r].toISOString();else if(r=="filters"&&i[r]instanceof Array){let n=[];i[r].forEach(e=>{typeof e=="string"?n.push(e):"field"in e&&"op"in e&&"value"in e&&n.push(f.serialize(e))}),i[r]=n}return i}export{s as a};
+/**i18n:a75ae641b91843c929bb3a5d156d611237f05c38297bc5d961c21a15cd95c6ef*/

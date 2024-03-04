@@ -1,2 +1,0 @@
-import{f}from"./chunk-I4OTRYP6.js";function s(i){for(let r in i)if((i[r]===void 0||i[r]===null)&&delete i[r],i[r]instanceof Date)i[r]=i[r].toISOString();else if(r=="filters"&&i[r]instanceof Array){let n=[];i[r].forEach(e=>{typeof e=="string"?n.push(e):"field"in e&&"op"in e&&"value"in e&&n.push(f.serialize(e))}),i[r]=n}return i}export{s as a};
-/**i18n:16c9224f5b668b40e6178402b9ae5cba52679b665b9b111ce72150c0a38fe8d5*/
