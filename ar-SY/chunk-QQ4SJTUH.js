@@ -1,2 +1,0 @@
-import{b as s,c as a}from"./chunk-7SF7UD7U.js";import{s as n}from"./chunk-4IMYWXKG.js";import{ga as o,ma as r}from"./chunk-MU2MOHCU.js";var l=(()=>{let t=class t extends a{constructor(e){super(e,"softuza-notification"),this.notifications=new s(this.http,`${this.basePath}/v1/notifications`),this.messages=new s(this.http,`${this.basePath}/v1/messages`)}};t.\u0275fac=function(c){return new(c||t)(r(n))},t.\u0275prov=o({token:t,factory:t.\u0275fac});let i=t;return i})();export{l as a};
-/**i18n:a75ae641b91843c929bb3a5d156d611237f05c38297bc5d961c21a15cd95c6ef*/
