@@ -207,7 +207,7 @@ TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
 
 --------------------------------------------------------------------------------
-Package: d3-selection
+Package: d3-axis
 License: "ISC"
 
 Copyright 2010-2021 Mike Bostock
@@ -225,7 +225,7 @@ TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
 
 --------------------------------------------------------------------------------
-Package: d3-axis
+Package: d3-selection
 License: "ISC"
 
 Copyright 2010-2021 Mike Bostock
