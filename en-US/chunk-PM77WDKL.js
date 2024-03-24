@@ -1,0 +1,2 @@
+import{c as l}from"./chunk-RCNXVE6U.js";import{f as s}from"./chunk-NWZBVKCY.js";var o=class extends l{constructor(){super(),this._lastWindow=null}open(n){return s(this,null,function*(){this._lastWindow=window.open(n.url,n.windowName||"_blank")})}close(){return s(this,null,function*(){return new Promise((n,t)=>{this._lastWindow!=null?(this._lastWindow.close(),this._lastWindow=null,n()):t("No active window to close!")})})}},w=new o;export{w as Browser,o as BrowserWeb};
+/**i18n:34a0aca9a8a7a5b54ef908b3a50021d42a3fb6a7b58cfe4980f9bcbab369501e*/
