@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711401710568,
+  "timestamp": 1711402226826,
   "index": "/en-US/index.html",
   "assetGroups": [
     {
@@ -141,7 +141,7 @@
     "/en-US/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/en-US/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/en-US/assets/icons/logo.svg": "e376a5f2fcaec13d0a179c567259d9b6197332ca",
-    "/en-US/assets/manifest.webmanifest": "cc0bfc72e11f7e91bd5f8cd044cd44c7f843b9a4",
+    "/en-US/assets/manifest.webmanifest": "6d29c4b5971a9c266eaee66cafd26808d488ac32",
     "/en-US/assets/routes.json": "59902287b279810a236faa16df2e4fc779f41c01",
     "/en-US/assets/silent-check-sso.html": "245bcb1f39394815c4686c8f03820f8d52c46e9c",
     "/en-US/chunk-2XLFMNWM.js": "411659e440964a1bdc969d3845928b6eed0e6d4d",
