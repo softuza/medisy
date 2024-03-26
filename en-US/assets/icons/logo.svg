@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="48"
-   viewBox="0 -960 960 960"
-   width="48"
+   height="1024"
+   viewBox="0 -960 20480 20480"
+   width="1024"
    version="1.1"
    id="svg1"
    sodipodi:docname="logo.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   inkscape:export-filename="logo.png"
+   inkscape:export-filename="icon-1024x1024.png"
    inkscape:export-xdpi="2048"
    inkscape:export-ydpi="2048"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="3.1249999"
-     inkscape:cy="30.562499"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="409.90096"
+     inkscape:cy="579.49611"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -35,72 +35,31 @@
      inkscape:current-layer="svg1"
      inkscape:export-bgcolor="#ffffff00">
     <sodipodi:guide
-       position="203.2932,479.16739"
-       orientation="0,-1"
-       id="guide6"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="480.83261,986.5165"
-       orientation="1,0"
-       id="guide7"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="555.07882,280.29361"
-       orientation="0,-1"
-       id="guide8"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="167.93786,679.80894"
-       orientation="0,-1"
-       id="guide15"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="278.4233,731.95806"
-       orientation="1,0"
-       id="guide24"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="358.85669,604.67884"
-       orientation="1,0"
-       id="guide25"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="599.273,670.08622"
-       orientation="1,0"
-       id="guide26"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="678.82251,601.14331"
-       orientation="1,0"
-       id="guide27"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="518.8396,708.97709"
-       orientation="1,0"
-       id="guide28"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="134.35029,427.01826"
-       orientation="0,-1"
+       position="-3906.25,10240"
+       orientation="0,1"
        id="guide29"
-       inkscape:locked="false" />
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
     <sodipodi:guide
-       position="766.24997,510.00002"
-       orientation="1,0"
+       position="10240,21667.5"
+       orientation="-1,0"
        id="guide1"
-       inkscape:locked="false" />
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <defs
      id="defs1">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 480 : 1"
+       inkscape:vp_x="0 : 20000 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="960 : 480 : 1"
-       inkscape:persp3d-origin="480 : 320 : 1"
+       inkscape:vp_z="960 : 20000 : 1"
+       inkscape:persp3d-origin="480 : 19840 : 1"
        id="perspective17" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter203"
        x="-0.022329227"
@@ -176,13 +135,13 @@
          id="feComposite205" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter207"
-       x="-0.09"
-       y="-0.036602634"
+       x="-0.090000004"
+       y="-0.036602635"
        width="1.255"
-       height="1.1037075">
+       height="1.1037076">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -252,13 +211,13 @@
          id="feComposite209" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter211"
-       x="-0.089998309"
-       y="-0.089993117"
+       x="-0.089998312"
+       y="-0.089993119"
        width="1.2549952"
-       height="1.2549805">
+       height="1.2549804">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -290,7 +249,7 @@
          id="feComposite211" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter213"
        x="-0.089998309"
@@ -328,7 +287,7 @@
          id="feComposite213" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter215"
        x="-2.3331929"
@@ -369,14 +328,14 @@
   <path
      id="path1"
      d="m 1366.6784,-310.04902 -3.0859,1.13281 0.039,0.0391 z"
-     style="filter:url(#filter215);opacity:1"
-     transform="matrix(1.4452119,0,0,1.4452119,-213.23691,217.1999)" />
+     style="opacity:1;filter:url(#filter215)"
+     transform="matrix(13.383165,0,0,13.383165,15870.55,14005.368)" />
   <ellipse
      style="opacity:1;fill:#00796b;fill-opacity:1;stroke-width:24.6165;filter:url(#filter213)"
      id="path22"
      cx="430.94601"
      cy="-572.11133"
-     transform="matrix(1.2945159,0.64254873,-0.64245058,1.294565,-216.98691,124.6999)"
+     transform="matrix(27.771009,13.78446,-13.782359,27.772015,-4697.9603,23517.361)"
      rx="40.000751"
      ry="40.003059" />
   <rect
@@ -387,7 +346,7 @@
      x="278.23224"
      y="-680"
      ry="40"
-     transform="matrix(1.4452119,0,0,1.652628,-211.69011,359.9572)" />
+     transform="matrix(31.003821,0,0,35.453507,-4584.335,28564.286)" />
   <rect
      style="opacity:1;fill:#00796b;fill-opacity:1;fill-rule:evenodd;stroke:#005800;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter205)"
      id="rect23-2"
@@ -396,11 +355,11 @@
      x="599.099"
      y="-680.55457"
      ry="62.275585"
-     transform="matrix(1.4452119,0,0,1.0895987,-215.15632,-8.2079418)"
+     transform="matrix(31.003821,0,0,23.374944,-4658.6903,20666.116)"
      rx="40" />
   <path
      id="rect23-2-3"
-     style="fill:#115e59;fill-opacity:1;fill-rule:evenodd;stroke:#005800;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter203);opacity:1"
+     style="opacity:1;fill:#115e59;fill-opacity:1;fill-rule:evenodd;stroke:#005800;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter203)"
      d="m -204.65731,-730.3658 c -7.26053,6.2053 -12.47948,14.85044 -14.21659,24.99056 -3.97052,23.17743 11.69583,45.03231 35.12147,49.00363 l 230.870467,39.15997 c 13.64222,2.31274 26.793998,-1.99838 36.205547,-10.55275 11.804002,-7.57238 19.633866,-20.78683 19.633866,-35.91078 l 0.001,-232.92813 c 0,-23.63494 -19.030126,-42.67067 -42.665066,-42.67067 -23.634939,0 -42.66848,19.02447 -42.66848,42.65941 l -0.0044,188.32452 -187.022894,-31.72689 c -13.17692,-2.23387 -25.92004,1.6729 -35.25501,9.65113 z"
-     transform="matrix(1.1188302,0.91479953,-0.94933833,1.0896769,-213.23691,217.1999)" />
+     transform="matrix(24.002042,19.625022,-20.365979,23.376634,-4617.5144,25501.742)" />
 </svg>

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711479344772,
+  "timestamp": 1711479683560,
   "index": "/en-US/index.html",
   "assetGroups": [
     {
@@ -142,7 +142,7 @@
     "/en-US/assets/icons/icon-512x512.png": "0814ffa04b16bace18b263b5eaadf74ad93c66f8",
     "/en-US/assets/icons/icon-72x72.png": "f0c683910c6b082da8ad3f0b0a15cdc0011d3cf1",
     "/en-US/assets/icons/icon-96x96.png": "c7e674d0d4bec68e9690db445f3834848c61650e",
-    "/en-US/assets/icons/logo.svg": "0fdec1c5dff0769b035cd6a563934721b6541305",
+    "/en-US/assets/icons/logo.svg": "68e0aaf67e3dfda3fea05691634081ab400c0b19",
     "/en-US/assets/manifest.webmanifest": "64f7371cbe0030f8d1564ead5913e93d9f81f98a",
     "/en-US/assets/routes.json": "59902287b279810a236faa16df2e4fc779f41c01",
     "/en-US/assets/silent-check-sso.html": "245bcb1f39394815c4686c8f03820f8d52c46e9c",
@@ -233,7 +233,7 @@
     "/en-US/chunk-ZIQGEPF6.js": "209778e39d0c9a9b7dd0e4990c833ec5d2bcd67a",
     "/en-US/chunk-ZTPR7VOL.js": "80856b8b265502b285c672893f4c4a126297175a",
     "/en-US/chunk-ZUQ55FEV.js": "52b48c33f03da304a72cd5a721385d4b2f43c394",
-    "/en-US/favicon.ico": "66073834c76e9c84159c9519439fd45724c75f12",
+    "/en-US/favicon.ico": "bbefa69b9b502990d6a87b7dc4e011d257cb503b",
     "/en-US/index.html": "04a956b5f7d11c4a1e5e0ea6f62ff4a742a182eb",
     "/en-US/main-QRCBV4GL.js": "ace3b95ca9339f7bd4642dc41b62950dba4e20cc",
     "/en-US/polyfills-RYDWHV2K.js": "7319cbf8d1055cb8f0f5f6997a3503daaeaa617a",
