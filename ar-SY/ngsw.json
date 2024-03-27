@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711507553031,
+  "timestamp": 1711507790315,
   "index": "/ar-SY/index.html",
   "assetGroups": [
     {
@@ -143,7 +143,7 @@
     "/ar-SY/assets/icons/icon-72x72.png": "f0c683910c6b082da8ad3f0b0a15cdc0011d3cf1",
     "/ar-SY/assets/icons/icon-96x96.png": "c7e674d0d4bec68e9690db445f3834848c61650e",
     "/ar-SY/assets/icons/logo.svg": "68e0aaf67e3dfda3fea05691634081ab400c0b19",
-    "/ar-SY/assets/manifest.webmanifest": "85771c18911d0e7fc7f172e4a82273be3467a18a",
+    "/ar-SY/assets/manifest.webmanifest": "dc7a204d5367d1d64b4de26bae0c08021fcb6a59",
     "/ar-SY/assets/routes.json": "59902287b279810a236faa16df2e4fc779f41c01",
     "/ar-SY/assets/silent-check-sso.html": "245bcb1f39394815c4686c8f03820f8d52c46e9c",
     "/ar-SY/chunk-2CTQJHOQ.js": "fdd0e8e3b2c8223762ea2b16e191c807d2b6aa69",
