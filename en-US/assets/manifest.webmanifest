@@ -1,7 +1,7 @@
 {
   "name": "Medisy",
   "short_name": "Medisy",
-  "theme_color": "#1976d2",
+  "theme_color": "#00796b",
   "background_color": "#00796b",
   "display": "standalone",
   "scope": "./",
