@@ -1,0 +1,2 @@
+var x=function(r){return r[r.Success=0]="Success",r[r.Error=1]="Error",r[r.Info=2]="Info",r[r.Warning=3]="Warning",r}(x||{});var o=class r{static default(e,t){return{pageSize:t??50,pageIndex:e??1}}static minimal(){return r.default(1,10)}static unpaged(){return{pageSize:-1,pageIndex:1}}static count(){return{pageIndex:1,pageSize:0}}};export{x as a,o as b};
+/**i18n:04e412d6635ea731ccdd3e5933772d7da0ddafbbf60a433f3fa3b6d3a3905661*/
