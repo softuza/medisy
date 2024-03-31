@@ -2,7 +2,7 @@
   "name": "Medisy",
   "short_name": "Medisy",
   "theme_color": "#1976d2",
-  "background_color": "#5800ff",
+  "background_color": "#00796b",
   "display": "standalone",
   "scope": "./",
   "start_url": "https://medisy.softuza.com/ar-SY/",
