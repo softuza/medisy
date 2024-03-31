@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711900349564,
+  "timestamp": 1711903050797,
   "index": "/ar-SY/index.html",
   "assetGroups": [
     {
@@ -100,7 +100,7 @@
         "/ar-SY/index.html",
         "/ar-SY/main-LIEDS3BR.js",
         "/ar-SY/polyfills-GVI5R7YU.js",
-        "/ar-SY/styles-R3VJ3YXD.css"
+        "/ar-SY/styles-TZCKULZW.css"
       ],
       "patterns": []
     },
@@ -230,10 +230,10 @@
     "/ar-SY/chunk-ZLA4W3Z4.js": "702b2be3bd22b482a734ffc1d0df64293cf684b7",
     "/ar-SY/chunk-ZSZ2KJZ7.js": "4207503f5029dcd3f0a566fd6ce7b6acd28c2b62",
     "/ar-SY/favicon.ico": "bbefa69b9b502990d6a87b7dc4e011d257cb503b",
-    "/ar-SY/index.html": "b6731f90d0131d26dfb033acfa3e6877b5b9b4da",
+    "/ar-SY/index.html": "a76166844642e077069067431ec56cb3bbfe5c11",
     "/ar-SY/main-LIEDS3BR.js": "3857d4b36aa19352263922381d45ef6f04d3d036",
     "/ar-SY/polyfills-GVI5R7YU.js": "e1883d6dd38c625a0dd5535019538fee24caeb99",
-    "/ar-SY/styles-R3VJ3YXD.css": "ced189d1ef376e1e6bd9ba48c41a44a7c0d33399"
+    "/ar-SY/styles-TZCKULZW.css": "43fba78da47649d2df8c8177537ca248b0e0d51b"
   },
   "navigationUrls": [
     {
