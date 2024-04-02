@@ -1,0 +1,2 @@
+import{e as i}from"./chunk-4YTU7KIA.js";import"./chunk-6DPHD5PI.js";import{ka as r,va as e}from"./chunk-WLX3OMWV.js";var n=[{path:"login",loadComponent:()=>import("./chunk-JYNQLKE5.js").then(t=>t.SzAuthLoginComponent)},{path:"redirect",loadComponent:()=>import("./chunk-JYNQLKE5.js").then(t=>t.SzAuthRedirectComponent)}];var d=(()=>{let o=class o{};o.\u0275fac=function(m){return new(m||o)},o.\u0275mod=e({type:o}),o.\u0275inj=r({imports:[i.forChild(n)]});let t=o;return t})();export{d as AuthModule};
+/**i18n:a84518dfaf5206df012bb98d831270fba229ecfbff1c9dff1ac7013a5ea5bd1b*/
