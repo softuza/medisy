@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1716959071792,
+  "timestamp": 1716960870616,
   "index": "/en-US/index.html",
   "assetGroups": [
     {
@@ -138,7 +138,6 @@
         "/en-US/assets/icons/icon-72x72.png",
         "/en-US/assets/icons/icon-96x96.png",
         "/en-US/assets/icons/logo.svg",
-        "/en-US/assets/manifest.webmanifest",
         "/en-US/assets/routes.json",
         "/en-US/assets/silent-check-sso.html"
       ],
@@ -157,7 +156,6 @@
     "/en-US/assets/icons/icon-72x72.png": "f0c683910c6b082da8ad3f0b0a15cdc0011d3cf1",
     "/en-US/assets/icons/icon-96x96.png": "c7e674d0d4bec68e9690db445f3834848c61650e",
     "/en-US/assets/icons/logo.svg": "68e0aaf67e3dfda3fea05691634081ab400c0b19",
-    "/en-US/assets/manifest.webmanifest": "5f584cdf9e9dbd4595e6b4316f80e71838a370e5",
     "/en-US/assets/routes.json": "59902287b279810a236faa16df2e4fc779f41c01",
     "/en-US/assets/silent-check-sso.html": "245bcb1f39394815c4686c8f03820f8d52c46e9c",
     "/en-US/chunk-25PVXDGK.js": "41d15866ce6e7014330a5b003bbbcfd8cdcb49a8",
@@ -262,7 +260,7 @@
     "/en-US/chunk-Z6CAPX7L.js": "6ebcf2a01dc48b32bcf96320eff871efdaae38e5",
     "/en-US/chunk-ZSRQUDS2.js": "c53a24f1737b993e13037e81665a72e7a32aaa92",
     "/en-US/favicon.ico": "bbefa69b9b502990d6a87b7dc4e011d257cb503b",
-    "/en-US/index.html": "6ae76313ad38afc39bd3cd9cec2768174db54f9e",
+    "/en-US/index.html": "d5241a873f2da2992ae202f980fc26d669ce189b",
     "/en-US/main-S2F4YZHH.js": "d47b338a4374818567fa2effc3abf7d1b1a1a9ca",
     "/en-US/polyfills-PSU7QEFM.js": "79aa0683fea8a349dd30c71adf069883f25c6915",
     "/en-US/styles-JJ4Y6W67.css": "fa9eeb41d497c2915b3b573a139072237228e26a"

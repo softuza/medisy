@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1716959065547,
+  "timestamp": 1716960864296,
   "index": "/ar-SY/index.html",
   "assetGroups": [
     {
@@ -138,7 +138,6 @@
         "/ar-SY/assets/icons/icon-72x72.png",
         "/ar-SY/assets/icons/icon-96x96.png",
         "/ar-SY/assets/icons/logo.svg",
-        "/ar-SY/assets/manifest.webmanifest",
         "/ar-SY/assets/routes.json",
         "/ar-SY/assets/silent-check-sso.html"
       ],
@@ -157,7 +156,6 @@
     "/ar-SY/assets/icons/icon-72x72.png": "f0c683910c6b082da8ad3f0b0a15cdc0011d3cf1",
     "/ar-SY/assets/icons/icon-96x96.png": "c7e674d0d4bec68e9690db445f3834848c61650e",
     "/ar-SY/assets/icons/logo.svg": "68e0aaf67e3dfda3fea05691634081ab400c0b19",
-    "/ar-SY/assets/manifest.webmanifest": "5f584cdf9e9dbd4595e6b4316f80e71838a370e5",
     "/ar-SY/assets/routes.json": "59902287b279810a236faa16df2e4fc779f41c01",
     "/ar-SY/assets/silent-check-sso.html": "245bcb1f39394815c4686c8f03820f8d52c46e9c",
     "/ar-SY/chunk-25PVXDGK.js": "f53800fccb812bbd542b116a175dc0aeb5dafe2a",
@@ -262,7 +260,7 @@
     "/ar-SY/chunk-Z6CAPX7L.js": "fcf814411752024b2d9941ebfc453a199a4dd0b2",
     "/ar-SY/chunk-ZSRQUDS2.js": "c53a24f1737b993e13037e81665a72e7a32aaa92",
     "/ar-SY/favicon.ico": "bbefa69b9b502990d6a87b7dc4e011d257cb503b",
-    "/ar-SY/index.html": "7795a420a05da1e11a74afb2f6992dac11b898f5",
+    "/ar-SY/index.html": "673561ef36adfaf66af73bb9961620fcf736d065",
     "/ar-SY/main-S2F4YZHH.js": "90f20cbb7208e7fd09144789f2814efa98434178",
     "/ar-SY/polyfills-PSU7QEFM.js": "8bbdf666f06322386ccb2dc7e36ad7291f47b6c6",
     "/ar-SY/styles-JJ4Y6W67.css": "fa9eeb41d497c2915b3b573a139072237228e26a"
