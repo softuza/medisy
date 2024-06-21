@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1718989361697,
+  "timestamp": 1718989747848,
   "index": "/en-US/index.html",
   "assetGroups": [
     {
@@ -113,6 +113,7 @@
         "/en-US/favicon.ico",
         "/en-US/index.html",
         "/en-US/main-LATBWNOP.js",
+        "/en-US/manifest.webmanifest",
         "/en-US/polyfills-JIRCZUOA.js",
         "/en-US/styles-XGAYEDRC.css"
       ],
@@ -258,6 +259,7 @@
     "/en-US/favicon.ico": "bbefa69b9b502990d6a87b7dc4e011d257cb503b",
     "/en-US/index.html": "b67ab85451be80df547bb139e9789c252d35af35",
     "/en-US/main-LATBWNOP.js": "3a9e3198e4d810942da0844a27f1fbc5a4ba5826",
+    "/en-US/manifest.webmanifest": "5f584cdf9e9dbd4595e6b4316f80e71838a370e5",
     "/en-US/polyfills-JIRCZUOA.js": "92c6903aca68c0c017e1666069d555807bce07ab",
     "/en-US/styles-XGAYEDRC.css": "1faeb1f2a90cfa8fb8d34c23b1aadb16588cb49e"
   },

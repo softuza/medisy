@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1718989355095,
+  "timestamp": 1718989741445,
   "index": "/ar-SY/index.html",
   "assetGroups": [
     {
@@ -113,6 +113,7 @@
         "/ar-SY/favicon.ico",
         "/ar-SY/index.html",
         "/ar-SY/main-LATBWNOP.js",
+        "/ar-SY/manifest.webmanifest",
         "/ar-SY/polyfills-JIRCZUOA.js",
         "/ar-SY/styles-XGAYEDRC.css"
       ],
@@ -258,6 +259,7 @@
     "/ar-SY/favicon.ico": "bbefa69b9b502990d6a87b7dc4e011d257cb503b",
     "/ar-SY/index.html": "568cdeb56e55c5bf771a8acd6a22bcb720e90520",
     "/ar-SY/main-LATBWNOP.js": "b295fe7dff5a485b9cbb9770c3b23444783c0294",
+    "/ar-SY/manifest.webmanifest": "5f584cdf9e9dbd4595e6b4316f80e71838a370e5",
     "/ar-SY/polyfills-JIRCZUOA.js": "ba75a40d05597af8905e13f45412447ae85e232d",
     "/ar-SY/styles-XGAYEDRC.css": "1faeb1f2a90cfa8fb8d34c23b1aadb16588cb49e"
   },
