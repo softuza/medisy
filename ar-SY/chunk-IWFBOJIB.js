@@ -1,2 +1,0 @@
-import{e}from"./chunk-AWG7Q7IV.js";import"./chunk-BSUEWO5U.js";import{ka as r,ua as i}from"./chunk-PSKSSTJ7.js";var n=[{path:"login",loadComponent:()=>import("./chunk-I3JQYUC2.js").then(o=>o.SzAuthLoginComponent)}];var d=(()=>{let t=class t{};t.\u0275fac=function(m){return new(m||t)},t.\u0275mod=i({type:t}),t.\u0275inj=r({imports:[e.forChild(n)]});let o=t;return o})();export{d as AuthModule};
-/**i18n:2cc98dd3a3b5bc180bc78b3f1af50b699468d67591cd411b77ad1068c18b35e2*/
