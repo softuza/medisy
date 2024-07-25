@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1721935823014,
+  "timestamp": 1721938472013,
   "index": "/ar-SY/index.html",
   "assetGroups": [
     {
@@ -267,7 +267,7 @@
     "/ar-SY/favicon.ico": "bbefa69b9b502990d6a87b7dc4e011d257cb503b",
     "/ar-SY/index.html": "7ea2fe8b0beb31c3f7db8c9315236739378a1c5b",
     "/ar-SY/main-62HWUCDA.js": "f2de14077311fd9f218e959798dca79812731753",
-    "/ar-SY/manifest.webmanifest": "5f584cdf9e9dbd4595e6b4316f80e71838a370e5",
+    "/ar-SY/manifest.webmanifest": "7185ab9d9ae2ff83a2da0594b8185adda53b58a2",
     "/ar-SY/polyfills-YUJ6LP3W.js": "d3e0849d31bcba47d9e518d4b8d21201c6971e2b",
     "/ar-SY/styles-BO53LO5Z.css": "4d3d46a564dc94d8f3b79bf3f39b75da4fb12fc1"
   },

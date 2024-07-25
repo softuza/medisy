@@ -2,14 +2,16 @@
   "name": "Medisy",
   "short_name": "Medisy",
   "description": "Medisy is a medical website that provides medical services and information.",
-  "categories": ["medical", "health", "laboratories"],
-
-  "start_url": "https://medisy.softuza.com/",
+  "categories": [
+    "medical",
+    "health",
+    "laboratories"
+  ],
+  "start_url": "https://portal.softuza.com/",
   "theme_color": "#00796b",
   "background_color": "#fff",
   "orientation": "any",
   "display": "standalone",
-
   "scope": "./",
   "icons": [
     {
