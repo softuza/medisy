@@ -1,11 +1,12 @@
 {
-  "name": "Medisy",
-  "short_name": "Medisy",
-  "description": "Medisy is a medical website that provides medical services and information.",
+  "name": "Portal",
+  "short_name": "Portal",
+  "description": "Portal is a website that provides services and information to labs, constructions, and others.",
   "categories": [
     "medical",
     "health",
-    "laboratories"
+    "laboratories",
+    "constructions"
   ],
   "start_url": "https://portal.softuza.com/",
   "theme_color": "#00796b",
