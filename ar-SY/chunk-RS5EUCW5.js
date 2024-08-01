@@ -1,2 +1,0 @@
-var i=(()=>{let c=class c{};c.Projects="cstn/projects",c.Project="cstn/projects/:projectId",c.Zones="cstn/zones",c.Zone="cstn/zones/:zoneId",c.Workers="cstn/workers",c.WorkGroups="cstn/work-groups",c.WorkGroup="cstn/work-groups/:workGroupId",c.EquipmentList="cstn/equipment",c.Equipment="cstn/equipment/:equipmentId";let e=c;return e})();export{i as a};
-/**i18n:4fd1e3784121426a165aad39e5b179e99241f431f66c0843478e7b7dba7da7b9*/
