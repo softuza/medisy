@@ -1,0 +1,2 @@
+var a=(()=>{let e=class e{};e.Projects="cstn/projects",e.Project="cstn/projects/:projectId",e.Zones="cstn/zones",e.Zone="cstn/zones/:zoneId",e.Employees="cstn/employees",e.Teams="cstn/teams",e.Team="cstn/teams/:teamId",e.Groups="cstn/groups",e.Group="cstn/groups/:groupId",e.EquipmentList="cstn/equipment",e.Equipment="cstn/equipment/:equipmentId",e.Roles="cstn/roles",e.PageEmployee="cstn/p/employee/:employeeId";let p=e;return p})();export{a};
+/**i18n:432eaf37c61bb291e8f30b0de1096d88a542ed89f4aba48a7a5a6c27385da906*/
