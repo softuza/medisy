@@ -1,0 +1,2 @@
+import{a as c}from"./chunk-YE7SJ3UD.js";import{Y as e}from"./chunk-I7PR7JM4.js";import{da as i,ia as n}from"./chunk-UELVXDXK.js";var p=(()=>{let t=class t{constructor(o){this.snackbar=o}open(o,a){this.snackbar.open(o,e.close,{duration:a??5e3})}};t.\u0275fac=function(a){return new(a||t)(n(c))},t.\u0275prov=i({token:t,factory:t.\u0275fac});let r=t;return r})();export{p as a};
+/**i18n:fe59e4cec730fb22fcad5443103077b4b8cf7932d5cc1616a4c03edd493e1605*/
