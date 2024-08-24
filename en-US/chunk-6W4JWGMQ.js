@@ -1,2 +1,0 @@
-var t=(()=>{let s=class s{};s.Notifications="snti/notifications",s.Notification="snti/notifications/:notificationId",s.NotificationEmails="snti/notification-emails",s.NotificationSmses="snti/notification-smses",s.NotificationPushes="snti/notification-pushes",s.Messages="snti/messages",s.PushSubscription="snti/push-subscriptions";let i=s;return i})();export{t as a};
-/**i18n:23b18f90dfad26ae6b830c3e760ecc323aedcfc43eb78549f6a00c2171dce7c8*/
