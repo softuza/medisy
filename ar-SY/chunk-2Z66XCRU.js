@@ -1,2 +1,0 @@
-var e=function(r){return r.LTR="LTR",r.RTL="RTL",r}(e||{});var a=function(r){return r.PlainPaper="PlainPaper",r.Label="Label",r}(a||{});var t=function(r){return r.DirectThermal="DirectThermal",r.ThermalTransfer="ThermalTransfer",r.Inkjet="Inkjet",r.Laser="Laser",r.DotMatrix="DotMatrix",r.Plotter="Plotter",r}(t||{});export{e as a,a as b,t as c};
-/**i18n:24e18a1ba83b4179a1babb1616b4d359e6a6ee94f2bda655ac6b279e5c98bb73*/
