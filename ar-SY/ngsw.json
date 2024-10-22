@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1729543061446,
+  "timestamp": 1729582832309,
   "index": "/ar-SY/index.html",
   "assetGroups": [
     {
@@ -317,7 +317,7 @@
     "/ar-SY/favicon.ico": "bbefa69b9b502990d6a87b7dc4e011d257cb503b",
     "/ar-SY/index.html": "0230f8a0365e72bce7a8d35154e58c503444a339",
     "/ar-SY/main-66ETNVKL.js": "09a236a7da21ddc87c631012d84ba6dd8dd0c8a8",
-    "/ar-SY/manifest.webmanifest": "1703674a33e7c4ce1d8441ca39f9cc79fd6c91a0",
+    "/ar-SY/manifest.webmanifest": "28375f88eb49e88a33795d151aae2bbf5a94c734",
     "/ar-SY/polyfills-EKMVKGSK.js": "1e368d5259d72bb685f272b040e890793e13f490",
     "/ar-SY/styles-PM4AVMDG.css": "2cc582dd853053da44e6d9697d7beb66b536022f"
   },
